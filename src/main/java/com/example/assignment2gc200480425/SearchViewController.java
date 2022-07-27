@@ -11,8 +11,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.control.ListView;
 
 import java.io.IOException;
-import java.net.URL;
-import java.util.ResourceBundle;
+
 
 public class SearchViewController{
 

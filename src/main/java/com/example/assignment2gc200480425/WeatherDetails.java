@@ -22,7 +22,6 @@ Root root = om.readValue(myJsonString, Root.class); */
         public Coord coord;
         public ArrayList<Weather> weather;
         public String base;
-        public Main main;
         public int visibility;
         public Wind wind;
         public Clouds clouds;
