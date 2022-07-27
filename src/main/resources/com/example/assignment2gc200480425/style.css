@@ -1,0 +1,30 @@
+#style1{
+    -fx-background-color: linear-gradient(from 300px 300px to 500px 500px, #4a4c5f, #8393ec);
+    -fx-font-size: 13px;
+}
+#style2{
+    -fx-text-fill: #ffffff;
+}
+
+#style3{
+    -fx-background-radius: 10px;
+}
+
+#style4{
+    -fx-font-size: 25pt;
+}
+#style5{
+    -fx-background-color: #b46666;
+}
+#style6{
+    -fx-font: #7e6969;
+}
+#style7{
+    -fx-font-family: Century;
+}
+#style8{
+    -fx-background-color: gray;
+}
+#style9{
+    -fx-background-color: #bbb4b4;
+}
